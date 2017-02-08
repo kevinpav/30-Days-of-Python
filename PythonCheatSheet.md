@@ -13,7 +13,7 @@ print(text3)
 
 ```
 
-### Formating
+### Formatting
 
 **`\n`: New Line**
 ```python
